@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @barrrettt
-- 👀 I’m interested in things.
+GameDev at night 🦇
 
 <!---
 barrrettt/barrrettt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
